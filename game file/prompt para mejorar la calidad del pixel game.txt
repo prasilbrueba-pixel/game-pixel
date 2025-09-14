@@ -1,0 +1,1 @@
+Por favor, implementa la técnica de renderizado HiDPI en el canvas usando devicePixelRatio para aumentar su resolución interna y luego ajústalo con CSS. No olvides escalar el contexto de dibujo.
